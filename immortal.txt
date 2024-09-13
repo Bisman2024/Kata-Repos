@@ -8,6 +8,10 @@ I wish that you would just leave
 7-ю строку
 Восьмая строка
 8-я строка
-<<<<<<< Updated upstream
+
 9-я строка
+
 10-я строка
+
+Десятая строка
+
