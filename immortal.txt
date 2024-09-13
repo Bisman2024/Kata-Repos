@@ -10,12 +10,4 @@ I wish that you would just leave
 8-я строка
 <<<<<<< Updated upstream
 9-я строка
-=======
-
-git add .
-git commit -m "комментарий"
-git pull origin <ветка>
-git add .
-git commit -m "комментарий"
-git push origin <ветка>
->>>>>>> Stashed changes
+10-я строка
